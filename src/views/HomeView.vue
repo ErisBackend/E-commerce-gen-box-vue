@@ -32,7 +32,7 @@ export default {
     display: flex;
        flex-direction: column;
        min-height: 100vh;
-        background-color: rgb(252, 252, 252);
+        background-color: #f6f6f6;
   }
 
 </style>
